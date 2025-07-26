@@ -53,3 +53,8 @@ This is **Task 1** . The goal was to simulate dashboards for **Health Monitoring
    ```bash
    pip install streamlit pandas matplotlib
 
+## 🔗 Live App
+
+Deployed on Streamlit Cloud: 
+[https://intern-task1-health-edtech-dashboard-k2lt8uy4zqced97iksieef.streamlit.app/]
+
